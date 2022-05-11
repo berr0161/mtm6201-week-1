@@ -12,8 +12,8 @@ body {
     height: 600px;
 }
 
-li{
-    margin-left: 0 ;
+dl {
+    padding: 0 5px 0 5px;
 }
 h1 {
     padding: 1px;
